@@ -1,0 +1,7 @@
+# Ubuntu 16.04 Setup Instructions
+
+1. Make a bootable usb with Ubuntu 16.04 following instructions at: `https://tutorials.ubuntu.com/tutorial/tutorial-install-ubuntu-desktop` 
+2. Once you login to your new Ubuntu 16.04 installation, install git using the command: `sudo apt install git`
+3. Install vim using the command: `sudo apt install vim`
+4. If the trackpad is super imprecise, run the command: `sudo apt install libinput-tools` Then, restart your computer and it should be fixed.
+
